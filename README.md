@@ -1,4 +1,7 @@
-# CPE643 Final Project Initial Submission
+# CPE643 Final Project 
+### Group: Jose Martinez-Ponce, Malik Tragna
+
+## Initial Submission
 
 **Date: 12/12/2025**
 
